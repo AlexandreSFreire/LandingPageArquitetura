@@ -26,6 +26,9 @@ Se você deseja sugerir melhorias ou relatar problemas, fique à vontade para ab
 ## Contato
 Para mais informações ou sugestões, entre em contato: alexandresfreire1@gmail.com
 
+## Como está o projeto
+
+![image](https://github.com/user-attachments/assets/8d1329c0-51ad-412c-8075-90f1e267e61e)
 
 Link do site disponibilizado: https://landingpage-desafio1.netlify.app/<br>
 Link da planilha de registro de informação: https://docs.google.com/spreadsheets/d/1niuzOl0U1UwJFtqJ-qspBBYxUXM-mFOimraqZ1LcUgU/edit?usp=sharing
