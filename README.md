@@ -16,7 +16,7 @@ Catch: campo de formulário para captação de informações para possíveis cli
 
 ## Como Utilizar
 1. Faça o download ou clone o repositório:
-git clone https://github.com/AlexandreSFreire/portfolio.git
+git clone https://github.com/AlexandreSFreire/LandingPageArquitetura.git
 
 3. Navegue até o diretório do projeto e abra o arquivo index.html no seu navegador para visualizar a página.
 Contribuições
