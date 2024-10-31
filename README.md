@@ -1,5 +1,5 @@
 # Projeto Landing Page Arquitetura
-Uma Landing Page para uma breva apresentação de uma empresa de Arquitetura.
+Uma Landing Page para uma breve apresentação de uma empresa de Arquitetura.
 
 ## Descrição
 Este projeto consiste em uma Landing Page estática desenvolvido para apresentar uma empresa de Arquitetura. Com um design limpo e intuitivo, a página é voltada para promover uma mensagem clara ao usuário, mantendo a simplicidade e a eficiência.
